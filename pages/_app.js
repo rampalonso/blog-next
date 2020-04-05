@@ -1,4 +1,5 @@
 import Header from '../components/sections/Header';
+import "../styles/styles.scss"
 
 // Todos los componentes dentro de Pages, pasaran
 // por este componente App
