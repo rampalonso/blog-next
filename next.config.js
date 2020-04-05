@@ -8,7 +8,7 @@ module.exports = phase => {
       if (isDev) {
         return 'https://jsonplaceholder.typicode.com'
       } else {
-        return 'https://api.edblog.com'
+        return 'https://jsonplaceholder.typicode.com'
       }
     })()
   };

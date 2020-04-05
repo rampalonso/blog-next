@@ -6,7 +6,7 @@ import "../styles/styles.scss"
 function App({ Component, pageProps }) {
   return (
     <>
-      <Header></Header>
+      <Header/>
       <Component {...pageProps}></Component>
     </>
   )
